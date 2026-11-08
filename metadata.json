@@ -1,0 +1,6 @@
+{
+  "name": "Bluesky Networks Internal Management System",
+  "description": "Private digital media production and operations management system for Bluesky Networks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
